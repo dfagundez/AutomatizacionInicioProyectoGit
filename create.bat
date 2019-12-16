@@ -17,9 +17,6 @@ git commit -m "Commit Inicial"
 git push -u origin master
 code .
 
-:: Finaliza la funcion
-goto :fin
-
 :: Defino la funcion create
 :create
 set var=%~1
